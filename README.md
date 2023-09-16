@@ -1,1 +1,1 @@
-# my-first-data-science-project
+# my_first_data_science_project
